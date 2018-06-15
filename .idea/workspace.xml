@@ -7,19 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55e58ba2-815e-4275-90e6-ca51295d582b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/maven_test_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tb/contrloller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tb/dao/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tb/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tb/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/studentDisplay.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,8 +23,8 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="90">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -363,12 +351,12 @@
       <workItem from="1528878452042" duration="5572000" />
       <workItem from="1528884222870" duration="533000" />
       <workItem from="1529023208791" duration="3088000" />
-      <workItem from="1529026564560" duration="1868000" />
+      <workItem from="1529026564560" duration="2457000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11061000" />
+    <option name="totallyTimeSpent" value="11650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -556,8 +544,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="90">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
     </entry>
